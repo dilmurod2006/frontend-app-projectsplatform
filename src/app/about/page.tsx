@@ -28,7 +28,7 @@ const founders = [
   },
   {
     name: "Boynazarov Bexruz",
-    role: "Python Full-stack Developer & Co-founder",
+    role: "Full-stack Developer & Co-founder",
     imageUrl: bexruzImg,
     socials: {
       github: "https://github.com/bexruzpy",
@@ -239,5 +239,6 @@ const AboutPage = () => {
 };
 
 export default AboutPage;
+
 
 
