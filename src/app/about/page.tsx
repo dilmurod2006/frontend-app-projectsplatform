@@ -45,7 +45,7 @@ const projects = [
     description:
       "O‘quv markazlari uchun yaratilgan innovatsion platforma bo‘lib, blok testlarini haqiqiy imtihon muhitiga yaqin tarzda o‘tkazish imkonini beradi. Natijalar tezkor va aniq e’lon qilinadi, har bir ishtirokchining natijasi esa chuqur tahlil qilinadi.",
     imageUrl: testmaxLogo,
-    href: "https://testmax.uz",
+    href: "/pdf/testmax.pdf",
     status: "active",
   },
   {
@@ -239,4 +239,5 @@ const AboutPage = () => {
 };
 
 export default AboutPage;
+
 
