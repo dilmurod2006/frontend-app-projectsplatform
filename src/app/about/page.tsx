@@ -31,7 +31,7 @@ const founders = [
     role: "Full-stack Developer & Co-founder",
     imageUrl: bexruzImg,
     socials: {
-      github: "https://github.com/bexruzpy",
+      github: "https://github.com/devbexruz",
       linkedin: "https://linkedin.com/in/bexruzdeveloper",
       telegram: "https://t.me/bexruzdeveloper",
     },
@@ -239,6 +239,7 @@ const AboutPage = () => {
 };
 
 export default AboutPage;
+
 
 
 
